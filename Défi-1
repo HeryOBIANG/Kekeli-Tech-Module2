@@ -1,0 +1,9 @@
+int firstValue = 500;
+int secondValue = 600;
+int largerValue;
+
+largerValue = Math.Max ( firstValue, secondValue);
+Console.WriteLine(largerValue);
+
+
+//Liens énoncé: https://learn.microsoft.com/fr-fr/training/modules/csharp-call-methods/5-challenge
