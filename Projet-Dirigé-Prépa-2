@@ -124,3 +124,8 @@ Console.ReadLine();
 
 
 //Liens énoncé: https://learn.microsoft.com/fr-fr/training/modules/challenge-project-arrays-iteration-selection/4-exercise-update-calculations
+/*
+Il ya un petit problème: les chiffre entier au niveax de "Extra Credit" dans l'énoncé
+aucune explication n'est donner les concernant, j'ai donc remplacé par les chiffres
+entier de ExamScore.
+*/
